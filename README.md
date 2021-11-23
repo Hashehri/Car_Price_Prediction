@@ -10,7 +10,7 @@ The project goal would be a predict the car price in KSA. In order to predict ca
 
 ## Data:
 
-The project will scrape data from [yalla motor website](https://ksa.yallamotor.com). the data will include information about the new car's price, car brand, car model, and car price.
+he project aims to extract only new cars price data, for this I will scrape the data from [yalla motor website](https://ksa.yallamotor.com). the data will include information about the car brand, car model, and car price.
 
 
 ## Tools:
