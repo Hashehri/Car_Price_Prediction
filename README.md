@@ -11,3 +11,12 @@ The project goal would be a predict the car price in KSA. In order to predict ca
 ## Data:
 
 The project will scrape data from [yalla motor website](https://ksa.yallamotor.com). the data will include information about the new car's price, car brand, car model, and car price.
+
+
+## Tools:
+
+Language: Python:
+
+* Data Scraping libraries: Extractor & Selenium.
+* EDA Libraries: Pandas, numpy, seaborn, matplotlib
+* Model Building Libraries: sklearn and Model Testing libraries sklearn
